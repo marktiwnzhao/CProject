@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Codes/C/Project2/PlaneFight.c
+SDL2/SDL.h
+D:/Codes/C/Project2/SDL2/SDL.h
+SDL2/SDL_image.h
+D:/Codes/C/Project2/SDL2/SDL_image.h
+SDL2/SDL_ttf.h
+D:/Codes/C/Project2/SDL2/SDL_ttf.h
+SDL2/SDL_mixer.h
+D:/Codes/C/Project2/SDL2/SDL_mixer.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
